@@ -24,9 +24,9 @@ layer = pdk.Layer(
 
 # Configuração inicial do mapa
 view_state = pdk.ViewState(
-    latitude=-23.5489,  # Latitude de Itapevi
-    longitude=-46.9322, # Longitude de Itapevi
-    zoom=23,
+    latitude=-23.554357,  # Latitude de Itapevi
+    longitude=-46.941633, # Longitude de Itapevi
+    zoom=15,
     
 )
 
