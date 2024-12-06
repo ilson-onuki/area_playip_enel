@@ -26,7 +26,7 @@ layer = pdk.Layer(
 view_state = pdk.ViewState(
     latitude=-23.5489,  # Latitude de Itapevi
     longitude=-46.9322, # Longitude de Itapevi
-    zoom=13,
+    zoom=23,
     
 )
 
