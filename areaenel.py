@@ -11,7 +11,7 @@ data['Latitude'] = data['Latitude'].str.replace(',', '.').astype(float)
 data['Longitude'] = data['Longitude'].str.replace(',', '.').astype(float)
 
 # Exibir os dados na interface
-st.write("Dados do CSV:", data)
+# st.write("Dados do CSV:", data)
 
 # Configurar o mapa usando Pydeck
 layer = pdk.Layer(
